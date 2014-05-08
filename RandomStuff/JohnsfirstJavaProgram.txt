@@ -1,0 +1,6 @@
+public class HelloCS120 {
+
+	public static void main(String[] args) {
+		System.out.printIn("Hello, This is John Bartels, and I Love Programming!");
+	}
+}  

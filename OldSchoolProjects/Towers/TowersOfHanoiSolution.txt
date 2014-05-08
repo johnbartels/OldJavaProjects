@@ -1,0 +1,15 @@
+Move disk from needle 1 to needle 2
+Move disk from needle 1 to needle 3
+Move disk from needle 2 to needle 3
+Move disk from needle 1 to needle 2
+Move disk from needle 3 to needle 1
+Move disk from needle 3 to needle 2
+Move disk from needle 1 to needle 2
+Move disk from needle 1 to needle 3
+Move disk from needle 2 to needle 3
+Move disk from needle 2 to needle 1
+Move disk from needle 3 to needle 1
+Move disk from needle 2 to needle 3
+Move disk from needle 1 to needle 2
+Move disk from needle 1 to needle 3
+Move disk from needle 2 to needle 3
